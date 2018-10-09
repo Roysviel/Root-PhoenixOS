@@ -12,7 +12,7 @@ echo "  Aditya Pratama (De4ce)"
 echo "  deace.inc@gmail.com"
 echo "  https://github.com/De4ce/Root-PhoenixOS"
 
-DOWNLOAD_URL="http://phoenix.de4ce.gq/su.zip"
+DOWNLOAD_URL="https://github.com/adit/Root-PhoenixOS/raw/master/su.zip"
 SU="/storage/emulated/0/de4ce"
 SU_PATH="/system/xbin/su"
 INT="   [#]"
